@@ -11,7 +11,7 @@
  */
 'use strict';
 
-const CACHE_VERSION = 'dd97e2c48b';
+const CACHE_VERSION = '59cfd30def';
 const CACHE_PREFIX = 'zhan-massage-';
 const CACHE = CACHE_PREFIX + CACHE_VERSION;
 const PAGE = './';
